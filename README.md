@@ -1,9 +1,9 @@
-# node-foo
+# node-cursed-mattress
 
 Almost certainly not what you're looking for. This is just me exploring a mock
 JS API client so that I can roadtest assumptions alongside a real one.
 
-Use of this code is known to lead to ocular exsanguination.
+Use of this cursed code is known to lead to ocular exsanguination.
 
 The server sourcecode is at:
 
