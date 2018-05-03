@@ -1,0 +1,34 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "NodeJS client for a mock service",
+  "main": "lib/foo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xurizaemon/node-foo.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Chris Burgess <chris@giantrobot.co.nz>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/xurizaemon/node-foo/issues"
+  },
+  "homepage": "https://github.com/xurizaemon/node-foo#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "dotenv": "^5.0.1",
+    "eslint": "^4.19.1",
+    "jest": "^22.4.3",
+    "jshint": "^2.9.5",
+    "mocha": "^5.0.5"
+  }
+}
